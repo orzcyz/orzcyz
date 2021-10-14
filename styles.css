@@ -1,0 +1,52 @@
+h1{
+	color :black;
+	font-size: 30px;
+}
+h2{
+	color: orange;
+    font-size: 20px;
+}
+body{
+	background-color: lightgoldenrodyellow;
+	width: 720px;
+	margin-left: auto;
+	margin-right: auto;
+	border-width: 1px;
+	border-style: solid;
+	border-color: grey;
+	border-radius: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+ul{
+	color: black;
+	font-family:KaiTi ;
+}
+p{
+	color :black;
+	font-family: KaiTi;
+	font-weight: bold;
+}
+span{
+	font-weight: bold;
+}
+#center{
+	display: table;
+	width: 720px;
+}
+#nav,#content{
+	display: table-cell;
+}
+#nav{
+	width: 150px;
+}
+#ggg{
+	display: table;
+	width: 720px;
+}
+#char,#int{
+	display: table-cell;
+}
+#char{
+	width: 360px;
+}
